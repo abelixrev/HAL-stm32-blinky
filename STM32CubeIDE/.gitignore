@@ -1,0 +1,10 @@
+# Build outputs
+Debug/*.elf
+Debug/*.map
+Debug/*.list
+Debug/default.size.stdout
+Debug/**/*.o
+Debug/**/*.d
+Debug/**/*.su
+Debug/**/*.cyclo
+Release/

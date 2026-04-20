@@ -1,0 +1,13 @@
+# Build outputs
+STM32CubeIDE/Debug/*.elf
+STM32CubeIDE/Debug/*.map
+STM32CubeIDE/Debug/*.list
+STM32CubeIDE/Debug/default.size.stdout
+STM32CubeIDE/Debug/**/*.o
+STM32CubeIDE/Debug/**/*.d
+STM32CubeIDE/Debug/**/*.su
+STM32CubeIDE/Debug/**/*.cyclo
+STM32CubeIDE/Release/
+
+# IDE local files
+STM32CubeIDE/.metadata/
